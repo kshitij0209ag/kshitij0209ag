@@ -5,7 +5,6 @@
 - 🔭 I’m currently a STudent in *Btech Computer Science* at *Amity University Gwalior*
 - 🌱 I’m currently learning *Appplied Machine Learning in python and Data strucutres and algorithms*
 - 👯 I’m looking to collaborate on *linkedin*
-- 🌱 I’m currently learning *Applied Machine learning with python*
 -  📫 Reach me at kshitj.agrawal0202@gmail.com
 - ⚡ Fun fact ****And people with friends live longer.****
 
