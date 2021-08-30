@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<!--<div align="center">
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij0209ag&theme=dark" alt="kshitij0209ag" /></p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij0209ag&label=Profile%20views&color=6805D3&style=flat" alt="kshitij0209ag" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij0209ag&label=Profile%20views&color=6805D3&style=flat" alt="kshitij0209ag" /> </p>
