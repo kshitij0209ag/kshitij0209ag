@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/kshitij-agrawal-3a557814b/" target="_blank"> Kshitij Agrawal </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Web And App Developer</h3>
 
-- 🌱 I’m currently learning **HTML, JAAVA Script, CSS, Android Development**
+- 🌱 I’m currently learning **HTML, JAAVA Script, CSS, Android Development, BootStrap**
 
-- 🔭 I’m currently a STudent in Btech Computer Science at Amity University Gwalior 3rd year
+- 🔭 I’m currently a STudent in Btech Computer Science at Amity University Gwalior 3rd year also a Ambassador at Coding Ninjas
 
 - 👯 I’m looking to collaborate on linkedin
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact And people with friends live longer.
 
-- 💬 Ask me about **Java, DBMS, MySQL, HTML, CSS, JavaScript**
+- 💬 Ask me about **Java, MySQL, HTML, CSS, JavaScript**
 
 <!-- 👨‍💻 Check out my personal portfolio : **<a href="https://lifecodess.cf" target="_blank">Portfolio</a>**-->
 
