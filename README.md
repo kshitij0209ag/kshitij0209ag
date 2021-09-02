@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/kshitij-agrawal-3a557814b/" target="_blank"> Kshitij Agrawal </a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/kshitij-agrawal-3a557814b/" target="_blank"> Kshitij Agrawal </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Web And App Developer</h3>
 
 - 🌱 I’m currently learning **HTML, JAAVA Script, CSS, Android Development**
@@ -68,3 +68,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij0209ag&theme=dark" alt="kshitij0209ag" /></p>
   </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij0209ag&label=Profile%20views&color=6805D3&style=flat" alt="kshitij0209ag" /> </p>
+  
+  
+ [![Kshitij Agrawal github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij0209ag&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
