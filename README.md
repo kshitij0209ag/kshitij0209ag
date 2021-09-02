@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=kshitij0209ag&show_icons=true&theme=dark&locale=en" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij0209ag&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij0209ag&show_icons=true&theme=dark&locale=en&layout=compact" alt="kshitij0209ag" /></td>
   </tr>
 </table>
 
