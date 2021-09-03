@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, JAAVA Script, CSS, Android Development, BootStrap**
 
-- 🔭 I’m currently a STudent in Btech Computer Science at Amity University Gwalior 3rd year also a Ambassador at Coding Ninjas
+- 🔭 I’m currently a Student in Btech Computer Science at Amity University Gwalior 3rd year also a Ambassador at Coding Ninjas
 
 - 👯 I’m looking to collaborate on linkedin
 
