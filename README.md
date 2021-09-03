@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/kshitij-agrawal-3a557814b/" target="_blank"> Kshitij Agrawal </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Web And App Developer</h3>
 
-- 🌱 I’m currently learning **HTML, JAAVA Script, CSS, Android Development, BootStrap**
+- 🌱 I’m currently learning **HTML, JAVAScript, CSS, Android Development, BootStrap**
 
-- 🔭 I’m currently a Student in Btech Computer Science at Amity University Gwalior 3rd year also a Ambassador at Coding Ninjas
+- 🔭 I’m currently a Student in **Btech Computer Science at Amity University Gwalior 3rd year** also a *Campus Ambassador at Coding Ninjas*.
 
 - 👯 I’m looking to collaborate on linkedin
 
@@ -28,8 +28,8 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
-<!--<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<!--<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
 </div>-->
