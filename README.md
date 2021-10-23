@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **Java, MySQL, HTML, CSS, JavaScript**
 
-- 😊 Data Science Intern at **Let's Grow More**
 
 <!-- 👨‍💻 Check out my personal portfolio : **<a href="https://lifecodess.cf" target="_blank">Portfolio</a>**-->
 
