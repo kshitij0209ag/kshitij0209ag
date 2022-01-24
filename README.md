@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, MySQL, HTML, CSS, JavaScript**
 
-- 📑 Collaborating a project into the firld of Data Science
+- 📑 Collaborating a project into the field of Data Science
 
 
 <!-- 👨‍💻 Check out my personal portfolio : **<a href="https://lifecodess.cf" target="_blank">Portfolio</a>**-->
