@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Landslide Prediction at Uttarkashi district of Uttarakhand**
 
-- 🌱 I’m currently learning **Android Development and Git**
+- 🌱 I’m currently learning **Data Structure and Algorithms using JAVA**
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/kshitij-agrawal-3a557814b/)
 
