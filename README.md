@@ -44,7 +44,9 @@
 </table>
 
    <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij0209ag&" alt="kshitij0209ag" />
+  <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij0209ag&" alt="kshitij0209ag" /></td>
+  </tr>
    </div>
 
 [![Kshitij Agrawal github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij0209ag&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
