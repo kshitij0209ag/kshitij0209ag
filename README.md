@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitij Agrawal</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=330033&center=true&vCenter=true&width=1000&height=100&lines=Passionate+Android+Developer;Student;Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=000000&center=true&vCenter=true&width=1000&height=100&lines=Passionate+Android+Developer;Student;Contributor)](https://git.io/typing-svg)
 
 <!-- <h3 align="center">A Passionate Android Developer </h3> -->
 
