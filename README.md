@@ -10,9 +10,9 @@
 
 <img align="right" alt="Coding" width="350" src="https://lucsoninfotech.com/wp-content/uploads/2020/12/Mobile-app-development.gif">
 
-- 🔭 I’m currently working on **Landslide Prediction at Uttarkashi district of Uttarakhand**
+<!-- - 🔭 I’m currently working on **Landslide Prediction at Uttarkashi district of Uttarakhand** -->
 
-- 🌱 I’m currently learning **Data Structure and Algorithms using JAVA**
+<!-- - 🌱 I’m currently learning **Data Structure and Algorithms using JAVA** -->
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/kshitij-agrawal-3a557814b/)
 
